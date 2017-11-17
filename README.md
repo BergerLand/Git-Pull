@@ -1,4 +1,4 @@
-# php-git-pull
+# Git-Pull
 PHP script which pulls from GitHub web-hooks after code is pushed.
 
 (c) 2017 Phillip R Berger - phillip@berger.land
